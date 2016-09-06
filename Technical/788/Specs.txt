@@ -1,0 +1,21 @@
+Max Design Taxi Weight - 503,500 LBS - 228,384 KG
+Max Design Takeoff Weight - 502,500 LBS - 227,930 KG
+Max Design Landing Weight - 380,000 LBS - 172,365 KG
+Max Design ZFW - 355,000 LBS - 161,025 KG
+Max Structural Payload - 90,500 LBS - 43,318 KG
+Max Cargo (Lower Deck) - 4,826 ft^3 - 136.7 m^3
+
+Operating Empty Weight - 264,500 LBS - 119,950 KG
+
+Seating Capacity:
+	359 All-Economy
+	242 2-Class: 24 Biz Class, 218 Econ Class
+
+Fuel:
+	Vol:
+	33,340 US Gal
+	126,206 L
+	Wt:
+	223,378 LBS
+	101,323 KG
+	
