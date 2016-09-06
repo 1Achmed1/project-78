@@ -3,6 +3,7 @@ Read up about it before contributing to the project:
 * [Wikipedia](https://en.wikipedia.org/wiki/Boeing_787_Dreamliner)
 * [Boeing](http://www.boeing.com/commercial/787/)
 * [Airplane Characteristics (Boeing)](http://www.boeing.com/assets/pdf/commercial/airports/acaps/787.pdf)
+* [Piano 5 Analysis](http://www.lissys.demon.co.uk/samp1/)
 
 ## Like PA, but not
 Those part of the FS9/FSX scene know about Project Airbus and their free Airbus models and about TDS and their models. But after feeling tired of the tradeoffs of obscene sums of money that companies like PMDG want and the lack of quality that many free addons possess, I've felt it's time to start something that anyone can contribute to.
